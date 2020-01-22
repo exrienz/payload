@@ -1,76 +1,99 @@
-*:\boot.ini
-*:\WINDOWS\win.ini
-*:\WINNT\win.ini
-*:\WINDOWS\Repair\SAM
-*:\WINDOWS\php.ini
-*:\WINNT\php.ini
-*:\Program Files\xampp\apache\conf\httpd.conf
-*:\php\php.ini
-*:\php5\php.ini
-*:\php4\php.ini
+%SYSTEMDRIVE%boot.ini
+%SYSTEMROOT%repairSAM
+%SYSTEMROOT%repairsystem
+%WINDIR%Panthersysprep.inf
+%WINDIR%system32configAppEvent.Evt
+%WINDIR%win.ini
 *:\apache\php\php.ini
-*:\xampp\apache\bin\php.ini
+*:\boot.ini
 *:\home2\bin\stable\apache\php.ini
 *:\home\bin\stable\apache\php.ini
-*:\WINDOWS\TEMP\sess_<sessid>
-*:\php\sessions\sess_<sessid>
-*:\php5\sessions\sess_<sessid>
+*:\php4\php.ini
 *:\php4\sessions\sess_<sessid>
-*:\Program Files\Apache Group\Apache\logs\access.log
-*:\Program Files\Apache Group\Apache\logs\error.log
-*:\Program Files\Apache Group\Apache\conf\httpd.conf
-*:\Program Files\Apache Group\Apache2\conf\httpd.conf
+*:\php5\php.ini
+*:\php5\sessions\sess_<sessid>
+*:\php\php.ini
+*:\php\sessions\sess_<sessid>
 *:\Program Files (x86)\Apache Group\Apache\logs\access.log
 *:\Program Files (x86)\Apache Group\Apache\logs\error.log
+*:\Program Files\Apache Group\Apache2\conf\httpd.conf
+*:\Program Files\Apache Group\Apache\conf\httpd.conf
+*:\Program Files\Apache Group\Apache\logs\access.log
+*:\Program Files\Apache Group\Apache\logs\error.log
+*:\Program Files\xampp\apache\conf\httpd.conf
+*:\WINDOWS\php.ini
+*:\WINDOWS\Repair\SAM
+*:\WINDOWS\TEMP\sess_<sessid>
+*:\WINDOWS\win.ini
+*:\WINNT\php.ini
+*:\WINNT\win.ini
+*:\xampp\apache\bin\php.ini
 
 
-*:\boot.ini%00
-*:\WINDOWS\win.ini%00
-*:\WINNT\win.ini%00
-*:\WINDOWS\Repair\SAM%00
-*:\WINDOWS\php.ini%00
-*:\WINNT\php.ini%00
-*:\Program Files\xampp\apache\conf\httpd.conf%00
-*:\php\php.ini%00
-*:\php5\php.ini%00
-*:\php4\php.ini%00
+
+
+%SYSTEMDRIVE%boot.ini%00
+%SYSTEMROOT%repairSAM%00
+%SYSTEMROOT%repairsystem%00
+%WINDIR%Panthersysprep.inf%00
+%WINDIR%system32configAppEvent.Evt%00
+%WINDIR%win.ini%00
 *:\apache\php\php.ini%00
-*:\xampp\apache\bin\php.ini%00
+*:\boot.ini%00
 *:\home2\bin\stable\apache\php.ini%00
 *:\home\bin\stable\apache\php.ini%00
-*:\WINDOWS\TEMP\sess_<sessid>%00
-*:\php\sessions\sess_<sessid>%00
-*:\php5\sessions\sess_<sessid>%00
+*:\php4\php.ini%00
 *:\php4\sessions\sess_<sessid>%00
-*:\Program Files\Apache Group\Apache\logs\access.log%00
-*:\Program Files\Apache Group\Apache\logs\error.log%00
-*:\Program Files\Apache Group\Apache\conf\httpd.conf%00
-*:\Program Files\Apache Group\Apache2\conf\httpd.conf%00
+*:\php5\php.ini%00
+*:\php5\sessions\sess_<sessid>%00
+*:\php\php.ini%00
+*:\php\sessions\sess_<sessid>%00
 *:\Program Files (x86)\Apache Group\Apache\logs\access.log%00
 *:\Program Files (x86)\Apache Group\Apache\logs\error.log%00
+*:\Program Files\Apache Group\Apache2\conf\httpd.conf%00
+*:\Program Files\Apache Group\Apache\conf\httpd.conf%00
+*:\Program Files\Apache Group\Apache\logs\access.log%00
+*:\Program Files\Apache Group\Apache\logs\error.log%00
+*:\Program Files\xampp\apache\conf\httpd.conf%00
+*:\WINDOWS\php.ini%00
+*:\WINDOWS\Repair\SAM%00
+*:\WINDOWS\TEMP\sess_<sessid>%00
+*:\WINDOWS\win.ini%00
+*:\WINNT\php.ini%00
+*:\WINNT\win.ini%00
+*:\xampp\apache\bin\php.ini%00
 
 
-*:\boot.ini%00jpg
-*:\WINDOWS\win.ini%00jpg
-*:\WINNT\win.ini%00jpg
-*:\WINDOWS\Repair\SAM%00jpg
-*:\WINDOWS\php.ini%00jpg
-*:\WINNT\php.ini%00jpg
-*:\Program Files\xampp\apache\conf\httpd.conf%00jpg
-*:\php\php.ini%00jpg
-*:\php5\php.ini%00jpg
-*:\php4\php.ini%00jpg
+
+
+
+%SYSTEMDRIVE%boot.ini%00jpg
+%SYSTEMROOT%repairSAM%00jpg
+%SYSTEMROOT%repairsystem%00jpg
+%WINDIR%Panthersysprep.inf%00jpg
+%WINDIR%system32configAppEvent.Evt%00jpg
+%WINDIR%win.ini%00jpg
 *:\apache\php\php.ini%00jpg
-*:\xampp\apache\bin\php.ini%00jpg
+*:\boot.ini%00jpg
 *:\home2\bin\stable\apache\php.ini%00jpg
 *:\home\bin\stable\apache\php.ini%00jpg
-*:\WINDOWS\TEMP\sess_<sessid>%00jpg
-*:\php\sessions\sess_<sessid>%00jpg
-*:\php5\sessions\sess_<sessid>%00jpg
+*:\php4\php.ini%00jpg
 *:\php4\sessions\sess_<sessid>%00jpg
-*:\Program Files\Apache Group\Apache\logs\access.log%00jpg
-*:\Program Files\Apache Group\Apache\logs\error.log%00jpg
-*:\Program Files\Apache Group\Apache\conf\httpd.conf%00jpg
-*:\Program Files\Apache Group\Apache2\conf\httpd.conf%00jpg
+*:\php5\php.ini%00jpg
+*:\php5\sessions\sess_<sessid>%00jpg
+*:\php\php.ini%00jpg
+*:\php\sessions\sess_<sessid>%00jpg
 *:\Program Files (x86)\Apache Group\Apache\logs\access.log%00jpg
 *:\Program Files (x86)\Apache Group\Apache\logs\error.log%00jpg
+*:\Program Files\Apache Group\Apache2\conf\httpd.conf%00jpg
+*:\Program Files\Apache Group\Apache\conf\httpd.conf%00jpg
+*:\Program Files\Apache Group\Apache\logs\access.log%00jpg
+*:\Program Files\Apache Group\Apache\logs\error.log%00jpg
+*:\Program Files\xampp\apache\conf\httpd.conf%00jpg
+*:\WINDOWS\php.ini%00jpg
+*:\WINDOWS\Repair\SAM%00jpg
+*:\WINDOWS\TEMP\sess_<sessid>%00jpg
+*:\WINDOWS\win.ini%00jpg
+*:\WINNT\php.ini%00jpg
+*:\WINNT\win.ini%00jpg
+*:\xampp\apache\bin\php.ini%00jpg
