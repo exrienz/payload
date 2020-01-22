@@ -182,6 +182,7 @@
 /var/log/apache2/access.log
 /var/log/httpd-error.log
 /var/log/httpd-access.log
+/proc/cpuinfo
 
 
 /etc/passwd%00
